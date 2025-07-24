@@ -48,7 +48,7 @@ function App() {
         <div className="max-w-4xl mx-auto px-6 text-center">
           <h3 className="text-3xl font-bold mb-4">Meet Your Coach</h3>
           <p className="text-gray-700 text-lg">
-            I'm Alex, a certified personal trainer with over 8 years of experience helping clients achieve real, lasting results through customized training and nutrition plans.
+            I'm Shyamlal, a certified personal trainer with over 8 years of experience helping clients achieve real, lasting results through customized training and nutrition plans.
           </p>
         </div>
       </section>
@@ -79,15 +79,15 @@ function App() {
           <div className="grid md:grid-cols-2 gap-8">
             <div className="bg-gray-100 p-6 rounded-lg">
               <p className="text-gray-700 mb-4">
-                “Working with Alex was life-changing. I lost 20kg and feel stronger than ever.”
+                “Working with Shyam was life-changing. I lost 20kg and feel stronger than ever.”
               </p>
-              <span className="font-semibold">— Rahul M.</span>
+              <span className="font-semibold">— Rahul </span>
             </div>
             <div className="bg-gray-100 p-6 rounded-lg">
               <p className="text-gray-700 mb-4">
                 “Best investment in myself. The coaching kept me accountable and motivated.”
               </p>
-              <span className="font-semibold">— Priya S.</span>
+              <span className="font-semibold">— Priya </span>
             </div>
           </div>
         </div>
